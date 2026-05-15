@@ -35,9 +35,10 @@ If you use zsh, you can add that line to your `~/.zshrc` file so it loads automa
 
 <h2>How to run</h2>
 
-```bash
-python filebot.py
-```
+1. Make a folder for FileBot
+2. Have filebot.py in the folder as well as your file
+3. Then run ``filebot.py`` while in the folder
+
 
 Then:
 
