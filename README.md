@@ -1,6 +1,6 @@
 <h1>FileBot</h1>
 
-FileBot is a simple terminal chatbot that allows users to upload files (to the filebot folder on their machine), and ask questions about it using Google Gemini.
+FileBot is a simple terminal chatbot that allows users to upload a file and ask questions about it using Google Gemini.
 
 <h2>What FileBot does</h2>
 
